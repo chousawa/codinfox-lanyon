@@ -14,6 +14,7 @@ The theme supports:
 2. Changable sidebar locations
 3. Integration of FontAwesome, MathJax, Disqus and Google Analytics
 4. and numerous improvements over original Lanyon
+5. ！！！
 
 
 ## License
