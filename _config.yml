@@ -1,5 +1,5 @@
 # Site Info
-title: Codinfox Lanyon
+title: Chousawa
 tagline: 'A Jekyll theme based on Lanyon'
 description: test
 url: http://codinfox.github.io
@@ -27,7 +27,7 @@ author:
   description: test
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
-    linkedin:  h
+    linkedin:  
     github:    https://github.com/chousawa
     # facebook:  <hide>
     twitter:   
